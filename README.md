@@ -1,3 +1,3 @@
 # unread-papers
 
-some unread papers
+some unread notes and papers
