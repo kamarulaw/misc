@@ -28,10 +28,10 @@ https://youtu.be/Q8IDCMf1F4U)
 https://www.dailymotion.com/video/x1btavd) 
 - [Documentary: Grigori Perelman](
 https://youtu.be/Ng1W2KUHI2s) 
-- [Talk: COLT2019](
-https://youtu.be/wDB0WzWoo5I) 
-- [Talk: Juan Argote](
+- [Talk: CEE Distinguished Lecture: Juan Argote](
 https://youtu.be/-S1BSd2xENg) 
+- [Talk: COLT 2019 Sponsor Talks: JUMPTrading](
+https://youtu.be/wDB0WzWoo5I) 
 - [Vlog: Monkey Abroad](
 https://youtu.be/uR-gB39Zkrc) 
 
