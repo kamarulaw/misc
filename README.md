@@ -3,6 +3,8 @@
 ## Notes + Papers (Unread)
 - [Notes: Advanced Probability II (36-754)](
 https://github.com/kamarulaw/unread-papers/blob/main/36-754%20Notes.pdf) 
+- [Paper: Andrei Frimu](
+https://github.com/kamarulaw/misc/blob/main/af-thesis.pdf) 
 - [Paper: Bojian Han](
 https://github.com/kamarulaw/unread-papers/blob/main/bh-paper.pdf) 
 - [Paper: Elizabeth Sciannella](
@@ -34,9 +36,3 @@ https://youtu.be/-S1BSd2xENg)
 https://youtu.be/wDB0WzWoo5I) 
 - [Vlog: Monkey Abroad](
 https://youtu.be/uR-gB39Zkrc) 
-
-
-
-
-
-
