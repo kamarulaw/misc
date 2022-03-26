@@ -24,9 +24,19 @@ https://github.com/kamarulaw/unread-papers/blob/main/yz-thesis.pdf)
 ## Interesting Videos
 - [Interview: Yuqing Zhang](
 https://youtu.be/Q8IDCMf1F4U) 
+- [Documentary: Andrew Wiles](
+https://www.dailymotion.com/video/x1btavd) 
+- [Documentary: Grigori Perelman](
+https://youtu.be/Ng1W2KUHI2s) 
 - [Talk: COLT2019](
 https://youtu.be/wDB0WzWoo5I) 
 - [Talk: Juan Argote](
 https://youtu.be/-S1BSd2xENg) 
 - [Vlog: Monkey Abroad](
 https://youtu.be/uR-gB39Zkrc) 
+
+
+
+
+
+
