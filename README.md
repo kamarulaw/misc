@@ -1,5 +1,8 @@
 # misc 
 
+## Notes + Papers (Read)
+
+
 ## Notes + Papers (Unread)
 - [Notes: Advanced Probability II (36-754)](
 https://github.com/kamarulaw/unread-papers/blob/main/36-754%20Notes.pdf) 
@@ -19,8 +22,11 @@ https://github.com/kamarulaw/unread-papers/blob/main/od-thesis.pdf)
 https://github.com/kamarulaw/unread-papers/blob/main/qh-thesis.pdf) 
 - [Paper: Sam Zbarsky](
 https://github.com/kamarulaw/unread-papers/blob/main/sz-princeton-hlp.pdf) 
+- [Paper: Thomas Durig](
+https://github.com/kamarulaw/misc/blob/main/macromol-02-00001.pdf) 
 - [Paper: Yuqing Zhang](
 https://github.com/kamarulaw/unread-papers/blob/main/yz-thesis.pdf) 
+
 
 ## Interesting Videos
 - [Interview: Yuqing Zhang](
