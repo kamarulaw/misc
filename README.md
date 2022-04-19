@@ -32,6 +32,9 @@ https://scholar.google.com/citations?user=3QeF7mAAAAAJ&hl=en)
 https://www.genealogy.math.ndsu.nodak.edu/id.php?id=32153) 
 - [Profile: Dejan Slepčev](
 https://www.math.cmu.edu/~slepcev/) 
+- [Profile: Renat Zhdanov](
+https://www.imath.kiev.ua/~renat/) 
+
 
 ## Interesting Videos
 - [Interview: Sankar Das Sarma](
