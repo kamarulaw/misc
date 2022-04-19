@@ -26,7 +26,12 @@ https://github.com/kamarulaw/unread-papers/blob/main/sz-princeton-hlp.pdf)
 https://github.com/kamarulaw/misc/blob/main/macromol-02-00001.pdf) 
 - [Paper: Yuqing Zhang](
 https://github.com/kamarulaw/unread-papers/blob/main/yz-thesis.pdf) 
-
+- [Profiles: Christian Szegedy](
+https://scholar.google.com/citations?user=3QeF7mAAAAAJ&hl=en) 
+- [Profiles: David Kinderlehrer](
+https://www.genealogy.math.ndsu.nodak.edu/id.php?id=32153) 
+- [Profiles: Dejan Slepčev](
+https://www.math.cmu.edu/~slepcev/) 
 
 ## Interesting Videos
 - [Interview: Sankar Das Sarma](
