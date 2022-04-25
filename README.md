@@ -53,7 +53,7 @@ https://youtu.be/wDB0WzWoo5I)
 https://youtu.be/uR-gB39Zkrc) 
 - [Vlog: West Coast Cubing Tour](
 https://youtu.be/eAwGRsm5Pzc) 
-- [Zoey Zhao: Year One](
+- [Zoey Zhao: Year 1](
 https://youtu.be/8h1JWq1x-8s) 
-- [Zoey Zhao: Year Six](
+- [Zoey Zhao: Year 6](
 https://www.youtube.com/watch?v=AWQFDO8sGP8) 
