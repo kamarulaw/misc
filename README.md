@@ -59,5 +59,7 @@ https://youtu.be/8h1JWq1x-8s)
 https://www.youtube.com/watch?v=AWQFDO8sGP8) 
 
 ## Zhichun
+- [Building an Eng Team That Understands The User](
+https://www.youtube.com/watch?v=azXvo3gBZ_s)
 - [Finessing a Quick Bag](
 https://elc.community/public/videos/from-engineer-to-general-manager-in-3-years)
