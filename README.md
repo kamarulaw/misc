@@ -57,3 +57,7 @@ https://youtu.be/eAwGRsm5Pzc)
 https://youtu.be/8h1JWq1x-8s) 
 - [Zoey Zhao: Year 6](
 https://www.youtube.com/watch?v=AWQFDO8sGP8) 
+
+## Zhichun
+- [Finessing a Quick Bag](
+https://elc.community/public/videos/from-engineer-to-general-manager-in-3-years)
