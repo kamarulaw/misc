@@ -53,6 +53,8 @@ https://youtu.be/wDB0WzWoo5I)
 https://youtu.be/uR-gB39Zkrc) 
 - [Vlog: West Coast Cubing Tour](
 https://youtu.be/eAwGRsm5Pzc) 
+- [Yvonne Yuan: Decentralized 2017 Experience](
+https://www.youtube.com/watch?v=GuoyKwo2agU) 
 - [Zoey Zhao: Year 1](
 https://youtu.be/8h1JWq1x-8s) 
 - [Zoey Zhao: Year 6](
