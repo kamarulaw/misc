@@ -61,5 +61,7 @@ https://www.youtube.com/watch?v=AWQFDO8sGP8)
 ## Zhichun
 - [Building an Eng Team That Understands The User](
 https://www.youtube.com/watch?v=azXvo3gBZ_s)
+- [How To Merge Ops and Engineering](
+https://www.youtube.com/watch?v=5Njpv95lBu8)
 - [Finessing a Quick Bag](
 https://elc.community/public/videos/from-engineer-to-general-manager-in-3-years)
