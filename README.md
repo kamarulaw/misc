@@ -49,6 +49,8 @@ https://youtu.be/Ng1W2KUHI2s)
 https://youtu.be/-S1BSd2xENg) 
 - [Talk: COLT 2019 Sponsor Talks: JUMPTrading](
 https://youtu.be/wDB0WzWoo5I) 
+- [Talk: Machine Learning Detection Channel Enabling](
+https://underline.io/lecture/45221-machine-learning-detection-channel-enabling-wide-reader-for-bit-patterned-media) 
 - [Vlog: Monkey Abroad](
 https://youtu.be/uR-gB39Zkrc) 
 - [Vlog: West Coast Cubing Tour](
