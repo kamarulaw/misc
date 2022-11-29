@@ -55,7 +55,7 @@ https://underline.io/lecture/45221-machine-learning-detection-channel-enabling-w
 https://youtu.be/uR-gB39Zkrc) 
 - [Vlog: West Coast Cubing Tour](
 https://youtu.be/eAwGRsm5Pzc) 
-- [Yvonne Yuan: Decentralized 2017 Experience](
+- [Yvonne Yuan: University of Nicosia Experience](
 https://www.youtube.com/watch?v=GuoyKwo2agU) 
 - [Zoey Zhao: Year 1](
 https://youtu.be/8h1JWq1x-8s) 
