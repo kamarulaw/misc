@@ -1,6 +1,8 @@
 # misc 
 
 ## Notes + Papers (Read)
+- [Paper: Jason Fries](
+https://arxiv.org/pdf/2301.03150.pdf)
 
 ## Notes + Papers (Unread)
 - [Notes: Advanced Probability II (36-754)](
