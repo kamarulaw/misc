@@ -10,8 +10,6 @@ https://github.com/kamarulaw/misc/blob/main/pnas.1523629113.pdf)
 - [Paper: Yi-Ting Chang](
 https://github.com/kamarulaw/misc/blob/main/pnas.1719548115.pdf)
 
-https://arxiv.org/pdf/2211.07503.pdf
-
 ## Notes + Papers (Unread)
 - [Notes: Advanced Probability II (36-754)](
 https://github.com/kamarulaw/unread-papers/blob/main/36-754%20Notes.pdf) 
