@@ -18,7 +18,9 @@ https://github.com/kamarulaw/misc/blob/main/af-thesis.pdf)
 - [Paper: Bojian Han](
 https://github.com/kamarulaw/unread-papers/blob/main/bh-paper.pdf) 
 - [Paper: Elizabeth Sciannella](
-https://github.com/kamarulaw/unread-papers/blob/main/es-finalpaper.pdf) 
+https://github.com/kamarulaw/unread-papers/blob/main/es-finalpaper.pdf)
+- [Paper: Justin Sun](
+https://github.com/kamarulaw/misc/blob/main/jwsun_MS_MSC_2023.pdf) 
 - [Paper: Kamaru Lawal](
 https://github.com/kamarulaw/unread-papers/blob/main/20220224082230.pdf) 
 - [Paper: Nancy Lu](
@@ -34,7 +36,7 @@ https://github.com/kamarulaw/unread-papers/blob/main/sz-princeton-hlp.pdf)
 - [Paper: Thomas Durig](
 https://github.com/kamarulaw/misc/blob/main/macromol-02-00001.pdf) 
 - [Paper: Yuqing Zhang](
-https://github.com/kamarulaw/unread-papers/blob/main/yz-thesis.pdf) 
+https://github.com/kamarulaw/unread-papers/blob/main/yz-thesis.pdf)
 
 ## Profiles
 - [Profile: Christian Szegedy](
