@@ -54,9 +54,11 @@ https://www.youtube.com/watch?v=Q8CHms4ixYc)
 - [Interview: Yuqing Zhang](
 https://youtu.be/Q8IDCMf1F4U) 
 - [Documentary: Andrew Wiles](
-https://www.dailymotion.com/video/x1btavd) 
+https://www.dailymotion.com/video/x1btavd)
 - [Documentary: Grigori Perelman](
-https://youtu.be/Ng1W2KUHI2s) 
+https://youtu.be/Ng1W2KUHI2s)
+- [Documentary: Susan Polgar](
+https://youtu.be/2wzs33wvr9E?si=xWt_bGzSoS_aRblI) 
 - [Talk: CEE Distinguished Lecture: Juan Argote](
 https://youtu.be/-S1BSd2xENg) 
 - [Talk: COLT 2019 Sponsor Talks: JUMPTrading](
@@ -72,7 +74,7 @@ https://www.youtube.com/watch?v=GuoyKwo2agU)
 - [Zoey Zhao: Year 1](
 https://youtu.be/8h1JWq1x-8s) 
 - [Zoey Zhao: Year 6](
-https://www.youtube.com/watch?v=AWQFDO8sGP8) 
+https://www.youtube.com/watch?v=AWQFDO8sGP8)
 
 ## Zhichun
 - [Building an Eng Team That Understands The User](
