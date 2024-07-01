@@ -19,6 +19,8 @@ https://github.com/kamarulaw/misc/blob/main/af-thesis.pdf)
 https://github.com/kamarulaw/unread-papers/blob/main/bh-paper.pdf) 
 - [Paper: Elizabeth Sciannella](
 https://github.com/kamarulaw/unread-papers/blob/main/es-finalpaper.pdf)
+- [Paper: Gan Yang](
+https://github.com/kamarulaw/misc/blob/main/1716648104545.pdf)
 - [Paper: Justin Sun](
 https://github.com/kamarulaw/misc/blob/main/jwsun_MS_MSC_2023.pdf) 
 - [Paper: Kamaru Lawal](
